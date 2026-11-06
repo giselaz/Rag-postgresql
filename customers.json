@@ -1,0 +1,12 @@
+[
+  { "company_name": "NordLedger AS", "description": "Cloud accounting software for small businesses: invoicing, VAT reports and bank reconciliation." },
+  { "company_name": "Adriatic Fresh Foods", "description": "Wholesale distributor of fresh fish and seafood to restaurants and hotels along the coast." },
+  { "company_name": "Volta Mobility", "description": "Installs and operates electric vehicle charging stations for parking garages and shopping malls." },
+  { "company_name": "Helix Clinical Labs", "description": "Medical laboratory offering blood tests, diagnostics and sample collection for private clinics." },
+  { "company_name": "BrightNest Realty", "description": "Real estate agency selling and renting apartments, with property management for owners abroad." },
+  { "company_name": "Kodra Logistics", "description": "Freight forwarding, warehousing and last-mile delivery for e-commerce shops." },
+  { "company_name": "PixelForge Studio", "description": "Game development studio building mobile puzzle games and in-app purchase systems." },
+  { "company_name": "GreenRoot Agro", "description": "Supplies organic fertilizer, seeds and irrigation systems to olive and vineyard farms." },
+  { "company_name": "SecureNet Albania", "description": "Cybersecurity consulting: penetration testing, firewall setup and staff phishing training." },
+  { "company_name": "Alpine Stay Hotels", "description": "Boutique mountain hotels with spa, hiking tours and a farm-to-table restaurant." }
+]

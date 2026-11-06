@@ -1,0 +1,8 @@
+applications:
+  - name: pg-vector
+    memory: 256M
+    random-route: true
+    buildpacks:
+      - nodejs_buildpack
+    services:
+      - pg-vector-db
